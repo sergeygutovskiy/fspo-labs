@@ -1,0 +1,26 @@
+<pokemons>
+	<pokemon name="Pikachu">
+		<hp>10</hp>
+		<attack>20</attack>
+		<defence>30</defence>
+		<speed>40</speed>
+		<special_attack>1000</special_attack>
+		<special_defence>1000</special_defence>
+	</pokemon>
+	<pokemon name="Bulbasaur">
+		<hp>6</hp>
+		<attack>23</attack>
+		<defence>32</defence>
+		<speed>12</speed>
+		<special_attack>2</special_attack>
+		<special_defence>8</special_defence>
+	</pokemon>
+	<pokemon name="Aslan">
+		<hp>1000</hp>
+		<attack>200</attack>
+		<defence>120</defence>
+		<speed>100</speed>
+		<special_attack>0</special_attack>
+		<special_defence>-2</special_defence>
+	</pokemon>
+</pokemons>
